@@ -2,5 +2,5 @@ def pr(x, y):
     return x * y
 
 
-# comment
+# comment 2
 print(pr(5, 99))
