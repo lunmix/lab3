@@ -6,4 +6,4 @@ x = 60
 y = 1355
 
 # comment 3
-print(x + y)
+print(x + y, "Hello man")
