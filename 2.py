@@ -3,4 +3,4 @@ def pr(x, y):
 
 
 # comment 2
-print(pr(5, 99))
+print(pr(5, 990))
