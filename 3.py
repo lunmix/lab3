@@ -2,7 +2,7 @@ def house(height, width):
     return height * width
 
 
-x = 6
+x = 60
 y = 1355
 
 # comment 3
